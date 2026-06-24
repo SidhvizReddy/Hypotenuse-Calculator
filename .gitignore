@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode/Clang debug symbols
+*.dSYM/
+
+# Build outputs
+*.out
+*.exe
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# CMake (if you use it later)
+build/
+CMakeFiles/
+CMakeCache.txt
